@@ -6,18 +6,23 @@ __author__     = "ChISL"
 __copyright__  = "TBD"
 __credits__    = ["Semtech"]
 __license__    = "TBD"
-__version__    = "0.1"
+__version__    = "Version 0.1"
 __maintainer__ = "https://chisl.io"
 __email__      = "info@chisl.io"
 __status__     = "Test"
+
+#
+#   THIS FILE IS AUTOMATICALLY CREATED
+#    D O     N O T     M O D I F Y  !
+#
 
 from SX1272_constants import *
 
 # name:        SX1272
 # description: 860 MHz to 1020 MHz Low Power Long Range Transceiver featuring the LoRa (TM) long range modem
 # manuf:       Semtech
-# version:     0.1
-# url:         http://www.semtech.com/images/datasheet/sx1272.pdf
+# version:     Version 0.1
+# url:         https://www.semtech.com/uploads/documents/sx1272.pdf
 # date:        2016-08-01
 
 
